@@ -6,4 +6,8 @@ label {
 input[type='submit'],
 label {
     margin-top: 1rem;
+color: darkred;
+   }
+.body{
+  color: darkred;
 }
