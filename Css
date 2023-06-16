@@ -145,6 +145,11 @@ ul li:hover .text{
     color: #777777;
 }
 .GT{
-  color: white;
-  font-size: larger;
+  color: black;
+  font-size: large;
+}
+
+.aranha{
+  color: black;
+  font-size: large;
 }
